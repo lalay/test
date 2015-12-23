@@ -1,5 +1,0 @@
-arp -s 192.168.1.1  14-E6-E4-9F-9C-80
-sudo arp -s 192.168.1.1 14-E6-E4-9F-9C-80
-netsh i i sh in
-netsh -c "i i" add neighbors 25 "192.168.1.1" "14-e6-e4-9f-9c-80"
-
